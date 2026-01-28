@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Monteiro
+# 👋 Olá, me chamo Júlio Monteiro!
 
 💻 Estudante de **Técnico em Tecnologia da Informação (TI)**  
 🏢 Atuando em uma empresa de tecnologia (**MegaZap**)  
